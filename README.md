@@ -6,8 +6,8 @@ in a walled forest village, a battle royale in the valley, and nights of the und
 ## Get the game
 
 1. Download the **Timberline Launcher**:
-   - **Windows:** [`Timberline-Launcher-Windows.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/v0.2.1/Timberline-Launcher-Windows.zip)
-   - **macOS:** [`Timberline-Launcher-macOS.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/v0.2.1/Timberline-Launcher-macOS.zip)
+   - **Windows:** [`Timberline-Launcher-Windows.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/v0.2.3/Timberline-Launcher-Windows.zip)
+   - **macOS:** [`Timberline-Launcher-macOS.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/v0.2.3/Timberline-Launcher-macOS.zip)
 2. Unzip it and start Timberline Launcher.
 3. Press **Install**, then **Play**. Every time it starts, the launcher looks for a new version and offers to update.
    Your settings and key bindings are kept.
