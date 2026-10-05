@@ -19,18 +19,31 @@ The builds are not code-signed yet:
 
 ## Play with friends
 
-The game needs a server to meet on. In the launcher, under **Server**:
+One of you hosts, the others join. Everything happens in the launcher.
 
-- **Join a friend:** paste the address or the invite link they gave you, then press **Play**. An invite link takes you
-  straight into their room.
-- **Host on your own computer:** press **Host a match on this computer**, then **Play**. The launcher shows the address
-  players on your network type in. (Playing with people outside your network needs a server they can reach; the
-  person who hosts will send you its address.)
+**To host** (friends anywhere, not only on your own network):
+
+1. Press **Host a match on this computer**. The first time, the launcher fetches Cloudflare's tunnel program (about
+   40 MB); Windows may ask whether the launcher may use the network: allow it.
+2. After a few seconds **Your invite link** appears. Press **Copy** and send it to your friends.
+3. Press **Play**, choose **Create Room**, and wait for them in the lobby.
+
+No account and no router setup are needed. The link is new every time you start hosting, and it stops working when you
+stop hosting or close the launcher. Untick *Friends on other networks can join* to host for your own network only.
+
+**To join:** paste the link your friend sent under **Server** and press **Play**, then choose **Join Code** and type
+the room code (or paste an invite link from the lobby, which already carries the code). A link that is on your
+clipboard when you open the launcher is offered with one click.
+
+The tunnel only carries the first contact. After that the game talks to each player directly where their networks
+allow it (the corner of the screen shows DIRECT); otherwise it stays on the relay (RELAY), which costs some ping.
 
 If your connection drops your place is held for 25 seconds, and the game picks it up again by itself.
 
 **F11** (or Alt+Enter) switches full screen. Everything else on the keyboard belongs to the game: there is no browser
-around it any more, so Ctrl+W crouch-walks instead of closing a tab.
+around it, so Ctrl+W crouch-walks instead of closing a tab.
+
+Something not working? **Logs** at the bottom of the launcher opens the folder with `launcher.log` and `host.log`.
 
 ## What the launcher does
 
