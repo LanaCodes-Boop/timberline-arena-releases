@@ -5,9 +5,9 @@ in a walled forest village, a battle royale in the valley, and nights of the und
 
 ## Get the game
 
-1. Download the **Timberline Launcher** from the [latest release](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/latest):
-   - **Windows:** [`Timberline-Launcher-Windows.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/latest/download/Timberline-Launcher-Windows.zip)
-   - **macOS:** [`Timberline-Launcher-macOS.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/latest/download/Timberline-Launcher-macOS.zip)
+1. Download the **Timberline Launcher**:
+   - **Windows:** [`Timberline-Launcher-Windows.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/v0.2.1/Timberline-Launcher-Windows.zip)
+   - **macOS:** [`Timberline-Launcher-macOS.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/v0.2.1/Timberline-Launcher-macOS.zip)
 2. Unzip it and start Timberline Launcher.
 3. Press **Install**, then **Play**. Every time it starts, the launcher looks for a new version and offers to update.
    Your settings and key bindings are kept.
@@ -31,8 +31,8 @@ One of you hosts, the others join. Everything happens in the launcher.
 No account and no router setup are needed. The link is new every time you start hosting, and it stops working when you
 stop hosting or close the launcher. Untick *Friends on other networks can join* to host for your own network only.
 
-**To join:** paste the link your friend sent under **Server** and press **Play**, then choose **Join Code** and type
-the room code (or paste an invite link from the lobby, which already carries the code). A link that is on your
+**To join:** paste the link your friend sent under **Server** and press **Play**. Rooms that are open on that server
+are listed at the top of the main menu: click **Join …**. (A room code or an invite link from the lobby works too.) A link that is on your
 clipboard when you open the launcher is offered with one click.
 
 The tunnel only carries the first contact. After that the game talks to each player directly where their networks
