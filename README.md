@@ -6,12 +6,12 @@ in a walled forest village, a battle royale in the valley, and nights of the und
 ## Get the game
 
 1. Download the **Timberline Launcher**:
-   - **Windows:** [`Timberline-Launcher-Setup.exe`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.3.0/Timberline-Launcher-Setup.exe)
+   - **Windows:** [`Timberline-Launcher-Setup.exe`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.3.1/Timberline-Launcher-Setup.exe)
      and run it. It puts **Timberline Arena** in the Start menu and on the desktop and starts the launcher; no
      administrator rights are needed. (Rather not install anything? There is a
-     [zip](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.3.0/Timberline-Launcher-Windows.zip)
+     [zip](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.3.1/Timberline-Launcher-Windows.zip)
      to unpack and run from any folder.)
-   - **macOS:** [`Timberline-Launcher-macOS.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.3.0/Timberline-Launcher-macOS.zip):
+   - **macOS:** [`Timberline-Launcher-macOS.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.3.1/Timberline-Launcher-macOS.zip):
      unzip it and start Timberline Launcher.
 2. Press **Install**, then **Play**. Every time it starts, the launcher looks for a new version of the game and offers
    to update. Your settings and key bindings are kept.
