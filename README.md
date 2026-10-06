@@ -1,7 +1,8 @@
 # Timberline Arena
 
 A first-person movement shooter with pixel-art characters in a 3D world: slides, wall kicks and climbs, team fights
-in a walled forest village, a battle royale in the valley, and nights of the undead on Graymoor.
+in a walled forest village, a battle royale in the valley, and nights of the undead on Graymoor. And when you have had
+enough of shooting: tennis, one against one or two against two, on a clay court on the village green.
 
 ## Get the game
 
