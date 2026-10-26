@@ -1,4 +1,13 @@
-# Timberline Arena
+# Lana's Gaems
+
+All of Lana's games in one launcher: **Timberline Arena** and **Canopy Line**. Install the launcher once; it installs,
+updates and starts every game. (It used to be called the Timberline Launcher: if you have that one, it updates itself
+into Lana's Gaems.)
+
+**Canopy Line** is a party train game: lay the track before the train runs out, alone or with up to 4 friends online.
+Chop, mine, throw and sprint; combos, power-ups, a super meter and three modes.
+
+## Timberline Arena
 
 A first-person movement shooter with pixel-art characters in a 3D world: slides, wall kicks and climbs, team fights
 in a walled forest village, a battle royale in the valley, and nights of the undead on Graymoor. And when you have had
@@ -7,15 +16,15 @@ broadcast with a walk-on, slow-motion replays and a proper ending.
 
 ## Get the game
 
-1. Download the **Timberline Launcher**:
-   - **Windows:** [`Timberline-Launcher-Setup.exe`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.4.0/Timberline-Launcher-Setup.exe)
+1. Download the launcher, **Lana's Gaems** (the files still carry the old name Timberline-Launcher):
+   - **Windows:** [`Timberline-Launcher-Setup.exe`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.5.0/Timberline-Launcher-Setup.exe)
      and run it. It puts **Timberline Arena** in the Start menu and on the desktop and starts the launcher; no
      administrator rights are needed. (Rather not install anything? There is a
-     [zip](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.4.0/Timberline-Launcher-Windows.zip)
+     [zip](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.5.0/Timberline-Launcher-Windows.zip)
      to unpack and run from any folder.)
-   - **macOS:** [`Timberline-Launcher-macOS.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.4.0/Timberline-Launcher-macOS.zip):
+   - **macOS:** [`Timberline-Launcher-macOS.zip`](https://github.com/LanaCodes-Boop/timberline-arena-releases/releases/download/launcher-v1.5.0/Timberline-Launcher-macOS.zip):
      unzip it and start Timberline Launcher.
-2. Press **Install**, then **Play**. Every time it starts, the launcher looks for a new version of the game and offers
+2. Pick a game on the left, press **Install**, then **Play**. Every time it starts, the launcher looks for a new version of the game and offers
    to update. Your settings and key bindings are kept.
 3. The launcher keeps itself up to date too: on Windows press **Update the launcher** at the bottom when it appears
    (it downloads the new one, installs it and comes back by itself); on macOS it tells you when a newer one is out.
